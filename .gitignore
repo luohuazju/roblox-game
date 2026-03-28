@@ -1,0 +1,17 @@
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Mac
+.DS_Store
+
+# Audio (generated)
+bgm.wav
+coin.wav
+explode.wav
