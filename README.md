@@ -103,5 +103,5 @@ roblox-game/
 - Python 3.13
 - pygame 2.6
 
-## 👨‍💻 Author
-Carl & Son - Built with ❤️ and chaos!
+## 👨‍💻 Authors
+Leo & Angela - Built with ❤️ and chaos!
