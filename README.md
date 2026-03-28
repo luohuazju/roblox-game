@@ -105,3 +105,33 @@ roblox-game/
 
 ## 👨‍💻 Authors
 Leo & Angela - Built with ❤️ and chaos!
+
+
+## 🔨 Build Guide
+
+### Intel Mac (x86_64)
+```
+bash build_intel.sh
+# Output: dist/WolfGod_x86_64.zip
+```
+Also works on M1/M2/M3 via Rosetta 2.
+
+### Apple Silicon (M1/M2/M3)
+```
+bash build_arm.sh
+# Output: dist/WolfGod_arm.zip
+```
+Must run on an Apple Silicon Mac with ARM Python.
+
+## 📥 Download & Play (No Python needed)
+
+| Platform | File | Notes |
+|----------|------|-------|
+| Intel Mac | WolfGod_x86_64.zip | macOS 10.13+ |
+| M1/M2/M3 | Use Intel build | Runs via Rosetta 2 |
+
+### Steps to run:
+1. Download and unzip the file
+2. Right-click WolfGod.app and click Open
+3. Click Open on the Mac security popup
+4. Enjoy the game!
